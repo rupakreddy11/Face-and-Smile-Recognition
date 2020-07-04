@@ -4,7 +4,7 @@ This repository consists of two python files. One is for face recognition by con
 
 Face Recognition using OpenCV Python :
 
-Once you try to implement the  face recognition model, create two folders called as data and train.'data' folder will be your dataset where the images taken from your webcam will b stored in it. 'train' folder will be used to contain the train.yml file which is made from the data. This train.yml is used to recognize the face.This facial recognition is done by using haarcascade_frontalface_default.xml.
+Once you try to implement the  face recognition model, create two folders called as data and train.'data' folder will be your dataset where the images taken from your webcam will b stored in it. 'train' folder will be used to contain the train.yml file which is made from the data. This train.yml is used to recognize the face.This facial recognition is done by using 'LBPH Face Recognizer'.
 
 Face and Smile Detection using OpenCV Python:
 
